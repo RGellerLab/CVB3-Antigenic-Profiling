@@ -1,0 +1,1 @@
+This folder contains the results from the competition assay. The ratio between fluorescence signal obtained at 20 hpi versus 8 hpi for each mutant or wildtype virus is indicated.

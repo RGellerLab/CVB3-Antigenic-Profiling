@@ -1,0 +1,1 @@
+This folder contains the results of the neutralization screening performed for 140 healthy human sera samples. ID, sex and age of donors are indicated, together with collection date, IC50 obtained and SD error in ic50 calculation.

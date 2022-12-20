@@ -1,0 +1,1 @@
+This folder contains the IC50 results of the neutralization assays for the human (ic50_results_human) and mouse (ic50_results_mice) sera samples. Sample and virus tested are indicated, together with the ic50 obtained for the mutant and for the wildtype virus, the standard error in the IC50 calculation and the fold change in the IC50 for the mutant vs the wildtype virus.

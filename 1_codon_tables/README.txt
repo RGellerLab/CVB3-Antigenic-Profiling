@@ -1,0 +1,1 @@
+This folder contains the codon files for all individual technical and biological replicates of the antigenic profiling experiments.

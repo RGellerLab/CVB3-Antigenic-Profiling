@@ -1,0 +1,1 @@
+This folder contains the logoplots representing the mean positive differential selection values of positively selected mutations for each antibody or serum sample in the full capsid sequence.

@@ -1,0 +1,3 @@
+This folder contains:
+1. roadmpas_per_sample folder: capsid roadmaps with surface exposed residues labelled according to their position in the polyprotein and colored according to the mean positive differential selection values obtained.
+2. all_roadmaps: png file with the capsid roadmaps colored according to the mean positive differential selection values obtained in the antigenic profiling experiments.
