@@ -1,0 +1,3 @@
+This folder contains the results from the different neutralization assays perfomed.
+Two files contain the IC50 results of the neutralization assays for the human (ic50_results_human) and mouse (ic50_results_mice) sera samples. Sample and virus tested are indicated, together with the ic50 obtained for the mutant and for the wildtype virus, the standard error in the IC50 calculation and the fold change in the IC50 for the mutant vs the wildtype virus.
+A third file (CVBs_neutralization_results) contains the neutralization titers obtained for the different human sera tested with different coxsackievirus clinical strains (CVB1, 3, 4, 5 and 6).

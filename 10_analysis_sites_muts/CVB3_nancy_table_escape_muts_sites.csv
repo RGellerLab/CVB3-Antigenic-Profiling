@@ -1,4 +1,4 @@
-Site,WT_AA,Mut_AA,ddG,B_Factor,Distance_to_center,Aggregation,DeltaHydrophobicity,DeltaPI,DeltaWeight,DeltaVolume,Grantham,snap2_Score,Disorder,RSA,EntABC,SS,CAR,DAR,Receptor,Escape_mut,Escape_site,Misclassified_mut
+Site,WT_AA,Mut_AA,ddG,B_Factor,Distance_to_center,Aggregation,DeltaHydrophobicity,DeltaPI,DeltaWeight,DeltaVolume,Grantham,snap2_Score,Disorder,RSA,EntABC,SS,CAR,DAF,Receptor,Escape_mut,Escape_site,Misclassified_mut
 134,T,G,5.75488,43.13000107,132.771,0,-0.3,-2.31,-44,-56,59,-15,0.2519,61.953,0.006,strand,no,no,no,no,no,no
 134,T,A,3.23364,43.13000107,132.771,0,-2.5,0.4,-30,-27.5,58,-22,0.2519,61.953,0.006,strand,no,no,no,no,no,no
 134,T,V,-1.88155,43.13000107,132.771,3.35,-4.9,0.01,-2,23.9,69,-20,0.2519,61.953,0.006,strand,no,no,no,no,no,no
